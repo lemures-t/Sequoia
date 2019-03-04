@@ -27,6 +27,7 @@ $ sudo make install
  * Python2.7或3.5以上
  * Python 依赖:
  ```
+ brew install hdf5
  pip install lxml requests bs4 numpy tushare pandas TA-Lib threadpool xlrd tables 
  ```
  
